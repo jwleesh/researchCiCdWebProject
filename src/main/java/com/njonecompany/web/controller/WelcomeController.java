@@ -21,7 +21,6 @@ public class WelcomeController {
         model.addAttribute("today", new Date());
         System.out.println(model.getAttribute("today"));
         return "index";
-
     }
 
     private String getMessage() {
