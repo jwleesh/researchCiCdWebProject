@@ -2,5 +2,5 @@ projectKey=com.njonecompany.web:web
 serverUrl=http://localhost:9001
 serverVersion=10.4.1.88267
 dashboardUrl=http://localhost:9001/dashboard?id=com.njonecompany.web%3Aweb
-ceTaskId=fbd964c3-68b4-4027-a918-5d5145c8657f
-ceTaskUrl=http://localhost:9001/api/ce/task?id=fbd964c3-68b4-4027-a918-5d5145c8657f
+ceTaskId=6e25668e-550e-4661-8a57-119e2ac5d893
+ceTaskUrl=http://localhost:9001/api/ce/task?id=6e25668e-550e-4661-8a57-119e2ac5d893
